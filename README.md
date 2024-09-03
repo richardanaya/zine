@@ -1,4 +1,4 @@
-# Zine using CSS (After 2024)
+# Zine using modern CSS after 2024
 
 I was not able to find a simple 1 page zine using CSS that didn't break when I went to go print it. Be sure to switch to **landscape** when printing.
 
