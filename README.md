@@ -7,8 +7,7 @@ I use:
 * grid layout
 * img elements by default take up fill width of zine page
 * zine page has overflow hidden
-
-TODO:
-figure out some font size pattern that looks good in all situations
+* zine uses *vw* font sizing for h1,h2,h3,p
+* zine tries to emulate that 1 inch margin on most printers in screen media query
 
 <img width="777" alt="Screenshot 2024-09-02 at 6 43 30 PM" src="https://github.com/user-attachments/assets/612accb8-75f9-4bf2-b740-8dc6a24fe52c">
