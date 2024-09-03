@@ -3,7 +3,7 @@
 I was not able to find a simple 1 page zine using CSS that didn't break when I went to go print it. Be sure to switch to **landscape** when printing.
 
 I use:
-* aspect ratio to maintain zine pane size
+* aspect ratio  8.5 / 11 to maintain zine pane size (useful for generating midjourney backgrounds with `--ar 17:22`
 * grid layout
 * img elements by default take up fill width of zine page
 * zine page has overflow hidden
